@@ -5,6 +5,6 @@ void main()
 {
   printf("Wakanda");
   printf("Forever");
-  printf("T'Challa\n");
+  printf("Ma names Korg, hey man\n");
 }
 
