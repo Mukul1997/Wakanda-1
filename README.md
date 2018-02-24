@@ -3,6 +3,7 @@
 I edited it 5 times
 
 it does 
--this
--that
+- this
+- that
+- then type `./a.out`
 
