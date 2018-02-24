@@ -4,6 +4,6 @@
 void main()
 {
   printf("Wakanda");
-  printf("Forevoo");
+  printf("Forever");
 }
 
